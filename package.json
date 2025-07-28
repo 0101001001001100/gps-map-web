@@ -1,0 +1,6 @@
+{
+  "name": "nodered-render-owntracks",
+  "version": "1.0.0",
+  "description": "Node-RED with OwnTracks + Worldmap for Render",
+  "dependencies": {}
+}
